@@ -9,7 +9,10 @@
   <meta name="author" content="SitePoint">
   <link rel="stylesheet" href="css/styles.css?v=1.0">
   <script src="./papaparse.min.js"></script>
-  <script src="https://code.highcharts.com/highcharts.src.js"></script>
+ <!-- <script src="https://code.highcharts.com/highcharts.src.js"></script>-->
+<script src="https://code.highcharts.com/stock/highstock.js"></script>
+<script src="https://code.highcharts.com/stock/modules/data.js"></script>
+<script src="https://code.highcharts.com/stock/modules/exporting.js"></script>
   <script src="./script.js"></script>
 </head>
 <body>
